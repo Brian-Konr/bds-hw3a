@@ -8,5 +8,6 @@ search_messages = [
     '🎁 Unwrapping the gift of data...',
     '🔮 Gazing into the data crystal ball...',
     '🎉 It’s a data party in here...',
-    '🍀 May the odds be ever in your keyword’s favor...'
+    '🍀 May the odds be ever in your keyword’s favor...',
+    '👀 Peeking behind the data curtain...',
 ]
